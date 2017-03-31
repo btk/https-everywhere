@@ -12,7 +12,7 @@ Bu özelliği aktif etmek ister misiniz?">
 and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
-<!ENTITY ssl-observatory.popup.title 
+<!ENTITY ssl-observatory.popup.title
 "HTTPS Everywhere SSL Gözlemcisini kullansın mı?">
 
 <!ENTITY ssl-observatory.popup.yes "Evet">
@@ -26,27 +26,27 @@ etkinleştirmek sizin için güvenlidir.">
 <!ENTITY ssl-observatory.prefs.adv_priv_opts2
 "Güvenli, gizli intranet şirket sunucularını kullanmadığınız sürece:">
 
-<!ENTITY ssl-observatory.prefs.alt_roots 
+<!ENTITY ssl-observatory.prefs.alt_roots
 "Geçerli bir otorite tarafından imzalanmamış sertifikaları gönder ve kontrol et">
 
-<!ENTITY ssl-observatory.prefs.alt_roots_tooltip 
-"Eğer ki TLS proxy veya özel kök Sertifika Otoritesi ile internet gezintilerini gözlemleyebilen Kaspersky antivirüs yazılımı ya da araya girilebilen bir şirket ağı kullanmıyorsanız bu özelliği etkinleştirmek güvenlidir (ve akıllıca), Eğer ağ üzerinde bunlar etkinse, bu seçenek eşsiz sertifikalar verdiğinden vekil sunucu üzerinden https:// adreslerine eriştiğinize kanıt olmuşturur. Dolayısıyla varsayılan ayarlarda kapalı bıraktık.">
+<!ENTITY ssl-observatory.prefs.alt_roots_tooltip
+"Eğer ki TLS proxy veya özel kök Sertifika Otoritesi ile internet gezintilerini gözlemleyebilen Kaspersky antivirüs yazılımı ya da araya girilebilen bir şirket ağı kullanmıyorsanız bu özelliği etkinleştirmek güvenlidir (ve akıllıca), Eğer ağ üzerinde bunlar etkinse, bu seçenek eşsiz sertifikalar verdiğinden vekil sunucu üzerinden https:// adreslerine eriştiğinize delil olmuşturur. Dolayısıyla varsayılan ayarlarda kapalı bıraktık.">
 
 <!ENTITY ssl-observatory.prefs.anonymous "Gizliliğim için Tor kullanırken de sertifikaları kontrol et">
-<!ENTITY ssl-observatory.prefs.anonymous_unavailable 
+<!ENTITY ssl-observatory.prefs.anonymous_unavailable
 "Gizliliğim için Tor kullanırken de sertifikaları kontrol et (Torbutton gerektirir)">
-<!ENTITY ssl-observatory.prefs.anonymous_tooltip 
+<!ENTITY ssl-observatory.prefs.anonymous_tooltip
 "Bu özellik Tor ve Torbutton'un yüklü olmasını gerektirir.">
 
-<!ENTITY ssl-observatory.prefs.asn 
+<!ENTITY ssl-observatory.prefs.asn
 "Yeni bir sertifika gördüğünde, hangi ISS'den bağlandığımı Gözlemci'ye bildir">
 
 <!ENTITY ssl-observatory.prefs.asn_tooltip
-"Bu ağın &quot;Özerk Sistemi numarası&quot; alıp göndereceğiz. Bu bize HTTPS'e karşı gerçekleştirilen yerel saldırıları belirlemekte ve nispeten İran ve Suriye gibi yerlerde ağlara karşı gözlemler olup olmadığını belirlemek için yardımcı olacaktır.">
+"Bu ağın &quot;Özerk Sistemi numarasını&quot; alıp göndereceğiz. Bu bize HTTPS'e karşı gerçekleştirilen yerel saldırıları belirlemekte ve nispeten İran ve Suriye gibi yerlerde ağlara karşı gözlemler olup olmadığını belirlemek için yardımcı olacaktır.">
 
 <!ENTITY ssl-observatory.prefs.done "Tamamlandı">
 
-<!ENTITY ssl-observatory.prefs.explanation 
+<!ENTITY ssl-observatory.prefs.explanation
 "HTTPS Everywhere EFF'nin SSL Gözlemcisini kullanır. Gözlemci iki olay gerçekleştirir:(1)
 HTTPS sertifikalarının kopyalarını Gözlemci'ye yollar ki MITM saldırılarının tespitinde yardım edelim, internet güvenliğini geliştirebilelim; ve (2)
 seni güvensiz bağlantılar hakkında uyarabilelim.">
@@ -62,13 +62,13 @@ Mouseover the options for further details:">-->
 
 <!ENTITY ssl-observatory.prefs.hide "Gelişmiş ayarları gizle">
 
-<!ENTITY ssl-observatory.prefs.nonanon 
+<!ENTITY ssl-observatory.prefs.nonanon
 "Tor uygun olmadığında dahi sertifikaları kontrol et">
 
 <!ENTITY ssl-observatory.prefs.nonanon_tooltip
 "Verilerini anonim tutmaya çalışıyoruz, ama bu özellik pek güvenli değil">
 
-<!ENTITY ssl-observatory.prefs.priv_dns 
+<!ENTITY ssl-observatory.prefs.priv_dns
 "Özel DNS isimleri için olan sertifikaları gönder ve kontrol et">
 
 <!ENTITY ssl-observatory.prefs.priv_dns_tooltip
